@@ -1,1 +1,3 @@
 Hari Pertama Pengembangan Pengembangan Aplikasi Berbasis Web dengan materi Git
+
+Ini adalah Baris Baru. Ini adalah Baris yang akan di- amend
