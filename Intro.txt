@@ -3,3 +3,7 @@ Hari Pertama Pengembangan Pengembangan Aplikasi Berbasis Web dengan materi Git
 Ini adalah Baris Baru. Ini adalah Baris yang akan di- amend
 
 Ini adalah penambahan baris tanggal 22 feb 2021
+
+Nindy nambah 1 baris. 03 march 2021.
+
+lagi.
